@@ -16,5 +16,3 @@
 hello <- function() {
   print("Hello, world!")
 }
-
-x <- 1234
