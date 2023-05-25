@@ -1,6 +1,5 @@
-
 ((
- ne_countries(scale = "medium", returnclass = "sf")
+ rnaturalearth::ne_countries(scale = "medium", returnclass = "sf")
  %>% filter(geounit == "France")
 ) -> france)
 
