@@ -10,6 +10,7 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: 
+    magrittr,
     rnaturalearth,
     sf
 RoxygenNote: 7.2.3
