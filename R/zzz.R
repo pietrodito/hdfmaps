@@ -8,4 +8,6 @@
  library(ggforce)
  library(scales)
  library(ggrepel)
+ library(magrittr)
+ library(purrr)
 }
