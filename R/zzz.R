@@ -6,4 +6,5 @@
  library(ggrepel)
  library(rnaturalearth)
  library(ggforce)
+ library(scales)
 }
