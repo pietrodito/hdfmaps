@@ -2,8 +2,8 @@ Package: hdfmaps
 Type: Package
 Title: Provide Tools For IMT2A Department.
 Version: 0.1.0
-Author: Pierre Balayé
-Maintainer: pierre.balaye@ars.sante.fr
+Authors@R: person("Pierre", "Balayé", email = "pierre.balaye@ars.sante.fr",
+  role = c("aut", "cre"))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
